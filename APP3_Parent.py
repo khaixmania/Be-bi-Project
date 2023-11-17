@@ -1,4 +1,4 @@
-#Code pour le babyphone des parents
+#Code pour le babyphone des parents.
 from microbit import *
 import radio
 
